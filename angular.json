@@ -23,6 +23,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/dhtmlx-scheduler/codebase/dhtmlxscheduler.css",
+              "node_modules/dhtmlx-scheduler-pro/codebase/dhtmlxscheduler.css",
               "src/styles.css"
             ],
             "scripts": []
